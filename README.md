@@ -1,2 +1,2 @@
 # selab2
-Practice for Software
+Practice for Software Engineering Lab (Assignment-2)
